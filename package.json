@@ -1,0 +1,26 @@
+{
+  "name": "util-json",
+  "version": "1.0.0",
+  "description": "about json traversal operation",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyaos/util-json.git"
+  },
+  "keywords": [
+    "json",
+    "operation"
+  ],
+  "author": "xiaoyaos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoyaos/util-json/issues"
+  },
+  "homepage": "https://github.com/xiaoyaos/util-json#readme"
+}
