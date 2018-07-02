@@ -18,7 +18,8 @@ var student = {
     }
   }
 };
-var result = utilJson.findKeyForIndex(0,student,0);
-// var result = utilJson.findObjectForKeys('sex',student);
-// var result = utilJson.findObjectForKey('sx',student);
+// var result = utilJson.findKeyByIndex(0,student,0);
+// var result = utilJson.findObjectByKeys('sex',student);
+// var result = utilJson.findObjectByKey('sx',student);
+var result = utilJson.levelObjectByKey("jhon","sex",student);
 console.log(result);
