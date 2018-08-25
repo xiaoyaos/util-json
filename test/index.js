@@ -21,5 +21,6 @@ var student = {
 // var result = utilJson.findKeyByIndex(0,student,0);
 // var result = utilJson.findObjectByKeys('sex',student);
 // var result = utilJson.findObjectByKey('sx',student);
-var result = utilJson.levelObjectByKey("jhon","sex",student);
+// var result = utilJson.levelObjectByKey("jhon","sex",student);
+var result = utilJson.deleteProByKey(student,["jhon.sex","mary.score"]);
 console.log(result);

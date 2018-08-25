@@ -1,10 +1,10 @@
 {
   "name": "util-json",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "about json traversal operation",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "node test/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
