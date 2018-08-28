@@ -1,6 +1,6 @@
 {
   "name": "util-json",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "about json traversal operation",
   "main": "index.js",
   "directories": {
